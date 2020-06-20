@@ -6,6 +6,6 @@ onmessage = function (task) {
   postMessage(workerResult);
 }
 
-readmsgs = functino(){
+readmsgs = function(){
 	// doing something here.
 }
