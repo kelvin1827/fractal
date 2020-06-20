@@ -5,3 +5,7 @@ onmessage = function (task) {
 
   postMessage(workerResult);
 }
+
+readmsgs = functino(){
+	// doing something here.
+}
